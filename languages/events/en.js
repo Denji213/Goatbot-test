@@ -32,7 +32,7 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
+			welcomeMessage: "➪ 𝘓𝘶𝘹 𝘛𝘺𝘭𝘦𝘳\n➪ 𝘉𝘰𝘵 𝘱𝘳𝘦𝘧𝘪𝘹: %1\n➪ 𝘔𝘺 𝘤𝘮𝘥 𝘭𝘪𝘴𝘵𝘦 : %1help\n➪ 𝘔𝘺 𝘤𝘳𝘦𝘢𝘵𝘰𝘳:𝙍𝙚𝙣𝙟𝙞 𝙎𝙩𝙖𝙧𝙛𝙖𝙡𝙡",
 			multiple1: "you",
 			multiple2: "you guys"
 		}
